@@ -1,0 +1,40 @@
+.footercontainer{
+  background-color: #BFD202;
+  height: 20rem;
+  max-width: 100%;
+  width: 100vw;
+  text-align: center;
+}
+
+
+.logofooter{
+  width: 15rem;
+  padding-top: 2rem;
+}
+
+
+
+.socials{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  column-gap: 2rem;
+  margin: 1rem auto 1rem auto;
+  margin-left: 42rem;
+  font-size: 2rem;
+  padding-bottom: 0.6rem;
+  color: #0A5247;
+  transition: color 0.025s ease;
+  
+}
+
+.contact{
+  color: #0A5247;
+  font-size: 1.2rem;
+}
+
+
+.copyright{
+  padding-top: 0.7rem;
+}

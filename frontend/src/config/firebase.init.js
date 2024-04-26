@@ -5,13 +5,19 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCZfbxqsit7um5co-FHuvWKX6aO5ARMb-I",
-  authDomain: "music-cons.firebaseapp.com",
-  projectId: "music-cons",
-  storageBucket: "music-cons.appspot.com",
-  messagingSenderId: "224145904923",
-  appId: "1:224145904923:web:af37627e05613beccf2fbe"
+  apiKey: "AIzaSyCQE_LJodadlR7Ynca1uIxSLDFYBftrtBs",
+  authDomain: "have-a-relax.firebaseapp.com",
+  projectId: "have-a-relax",
+  storageBucket: "have-a-relax.appspot.com",
+  messagingSenderId: "1034098858764",
+  appId: "1:1034098858764:web:17bb1a6b0add204ee9c729",
+  measurementId: "G-SQMGJ5JFQ1"
 };
 
 // Initialize Firebase
 export const app = initializeApp(firebaseConfig);
+
+
+
+
+

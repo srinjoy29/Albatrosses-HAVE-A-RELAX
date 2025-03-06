@@ -24,5 +24,5 @@ This is a full-stack yoga application where users can register, log in, buy cour
   - MongoDB
 
 Team Members - 
-@Sayanijana23
+[@Sayanijana23](https://github.com/Sayanijana23)
 

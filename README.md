@@ -23,5 +23,6 @@ This is a full-stack yoga application where users can register, log in, buy cour
   - Express.js
   - MongoDB
 
-Demo Video
+Team Members - 
+@Sayanijana23
 
